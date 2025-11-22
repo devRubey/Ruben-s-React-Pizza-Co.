@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ruben-s-React-Pizza-Co/static/css/main.ec313818.css",
+    "main.js": "/Ruben-s-React-Pizza-Co/static/js/main.e61b96e4.js",
+    "index.html": "/Ruben-s-React-Pizza-Co/index.html",
+    "main.ec313818.css.map": "/Ruben-s-React-Pizza-Co/static/css/main.ec313818.css.map",
+    "main.e61b96e4.js.map": "/Ruben-s-React-Pizza-Co/static/js/main.e61b96e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec313818.css",
+    "static/js/main.e61b96e4.js"
+  ]
+}
